@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\решетников23ис\helloworldRES23\bin\Debug\helloworldRES23.exe.config
+C:\Users\student\Desktop\решетников23ис\helloworldRES23\bin\Debug\helloworldRES23.exe
+C:\Users\student\Desktop\решетников23ис\helloworldRES23\bin\Debug\helloworldRES23.pdb
+C:\Users\student\Desktop\решетников23ис\helloworldRES23\obj\Debug\helloworldRES23.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\решетников23ис\helloworldRES23\obj\Debug\helloworldRES23.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\решетников23ис\helloworldRES23\obj\Debug\helloworldRES23.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\решетников23ис\helloworldRES23\obj\Debug\helloworldRES23.exe
+C:\Users\student\Desktop\решетников23ис\helloworldRES23\obj\Debug\helloworldRES23.pdb
